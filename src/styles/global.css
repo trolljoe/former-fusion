@@ -19,10 +19,10 @@
     color-scheme: dark;
     --theme-bg: #111111;
     --theme-text: #ededed;
-    --theme-accent: #4dcc5e;
-    --theme-accent-2: #242323;
+    --theme-accent: #00ff22;
+    --theme-accent-2: #585757;
     --theme-surface: #1b1b1b;
-    --theme-quote: #129e3c;
+    --theme-quote: #0cc543;
     --theme-highlight: #04f34c;
   }
 
