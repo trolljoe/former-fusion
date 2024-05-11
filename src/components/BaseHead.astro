@@ -13,7 +13,7 @@ interface Props {
 
 const canonicalURL = new URL(Astro.url.pathname, Astro.site);
 
-const { title, description, articleDate, image = '/blog-placeholder-1.jpg' } = Astro.props;
+const { title, description, articleDate, image = 'public/blog-placeholder-1.jpg' } = Astro.props;
 const titleSeparator = "|";
 const siteTitle = `${title} ${titleSeparator} ${siteConfig.title}`;
 ---
@@ -43,7 +43,7 @@ const siteTitle = `${title} ${titleSeparator} ${siteConfig.title}`;
 <meta property="og:url" content={Astro.url} />
 <meta property="og:title" content={title} />
 <meta property="og:description" content={description} />
-<meta property="og:image" content="../public/blog-placeholder-1.jpg">
+<meta property="og:image" content={image} />
 {
 	articleDate && (
 		<>
