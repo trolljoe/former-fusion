@@ -1,6 +1,6 @@
 ---
-title: 'Switching from Arch Linux to Void Linux'
-description: 'My experience using Arch and Void, and why I'm switching to Void.'
+title: 'Switching from Arch Linux to Void Linux' 
+description: "My experience using Arch and Void, and why I'm switching to Void."
 pubDate: 'July 18 2024'
 heroImage:
   src: '/void-arch.jpg'
@@ -32,4 +32,4 @@ Arch just hasn't been a stable experience for me. Opening programs as simple as 
 
 ## Conclusion
 
-Well, that's all the reasons I've decided to switch (or I forgot and I'm stupid and)
+Well, that's all the reasons I've decided to switch (or I forgot and I'm stupid and).
