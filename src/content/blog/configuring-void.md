@@ -74,7 +74,7 @@ IMPORTANT!!!!! PLEASE OPEN `customization.cfg` WITH A TEXT EDITOR AND SET _confi
 Void linux is a really easy distribution to configure, you just gotta get used to the manual intervention you gotta do to some apps for them to work. I hope this "guide" helped you do sommething on Void Linux succesfully.
 
 
-### Difference between glibc and musl {#difference-between-glibc-and-musl}
+### Difference between glibc and musl
 
 #### glibc
 glibc is a simple and vastly supported libc that's used by most distros. however, it tends to be insecure and clunky. but, if you're gonna use nvidia drivers, then you need glibc.
