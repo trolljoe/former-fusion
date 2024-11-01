@@ -6,7 +6,7 @@ heroImage:
   src: '/blog-placeholder-5.jpg'
   alt: 'blog placeholder'
 tags: ["test"]
-updatedDate: 'May 11 2024'
+updatedDate: 'November 1 2024'
 series: "markdown"
 ---
 import AnotherBlog from './astro-is-cool-ngl.md'
