@@ -14,6 +14,11 @@ import AnotherBlog from './astro-is-cool-ngl.md'
 # embedding another blog post
 <AnotherBlog />
 
+# katex
+$$
+\frac{\partial}{\partial t} \int_V \rho \, dV + \int_{\partial V} \rho (\mathbf{u} \cdot \mathbf{n}) \, dA = 0, \quad \nabla \cdot \mathbf{u} = 0
+$$
+
 <li>html!</li>
 <h1>yeah, ACTUAL html!!!</h1>
 
