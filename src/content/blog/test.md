@@ -1,7 +1,7 @@
 ---
 title: 'testing some markdown'
 description: 'p'
-pubDate: '200BC'
+pubDate: 'November 1 2024'
 heroImage: 
   src: '/blog-placeholder-5.jpg'
   alt: 'blog placeholder'
